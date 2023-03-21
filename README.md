@@ -19,7 +19,7 @@ I love technology in all its ways but focused on Data Science, Machine Learning,
 <p>
   <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
   <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    
+  <a href="https://scikit-learn.org"><img alt="Sklearn" src="https://img.shields.io/badge/scikit_learn-05122A?style=flat&logo=scikit-learn&logoColor=white"></a>
 </p>
       
 ### 🔖 Version Control
