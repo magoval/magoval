@@ -39,6 +39,8 @@ I love technology in all its ways but focused on Data Science, Machine Learning,
   <a href="" ><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown&logoColor=white"></a>
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
+  <a href="https://www.codewars.com"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 </p>
       
     
@@ -46,6 +48,7 @@ I love technology in all its ways but focused on Data Science, Machine Learning,
 <br>
 <br>
 <p>
+
   <a href="https://www.codewars.com/users/magoval">
       <img align="center" src="https://www.codewars.com/users/magoval/badges/large">
   </a>
