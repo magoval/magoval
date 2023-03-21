@@ -5,7 +5,7 @@ I am a data scientist working on Instituto de Ingeniería del Conocimiento (IIC)
 I love technology in all its ways but focused on Data Science, Machine Learning, Deep Learning...
 
 - 🌱 <strong> Learning: </strong> I’m currently learning about time series problems.
-- 📫 <strong> Social: </strong> You can reach me here <a href="https://es.linkedin.com/in/mario-gonz%C3%A1lez-valero-40488b12b"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&logo=linkedin&logoColor=white"></a>
+- 📫 <strong> Social: </strong> You can reach me here <a href="https://es.linkedin.com/in/mario-gonz%C3%A1lez-valero-40488b12b"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - 📚 <strong> Studies: </strong> I have a Bachelors in Telecommunications Engineering :satellite: and a Master's Degree in Big Data and Data Science at Universidad Autónoma de Madrid (UAM).
 
 
@@ -39,8 +39,6 @@ I love technology in all its ways but focused on Data Science, Machine Learning,
   <a href="" ><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown&logoColor=white"></a>
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"  width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
       
     
