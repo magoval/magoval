@@ -11,31 +11,34 @@ I love technology in all its ways but focused on Data Science, Machine Learning,
 
 ### 👨‍💻 Programming Language
 <p>
-  <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://openjdk.org/"><img alt="Java" src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
 
 
 ### 📚 Main Libraries
 <p>
-  <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="https://scikit-learn.org"><img alt="Sklearn" src="https://img.shields.io/badge/scikit_learn-05122A?style=flat&logo=scikit-learn&logoColor=white"></a>
+  <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="https://scikit-learn.org"><img alt="Sklearn" src="https://img.shields.io/badge/scikit_learn-05122A?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 </p>
       
 ### 🔖 Version Control
 
 <p>
-  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white"></a>
-  <a href="https://gitlab.com/"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&logo=gitlab&logoColor=white"></a>
-  <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/github%20-%23121011.svg?&logo=github&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://gitlab.com/"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/github%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
 ### 🛠️ Other Tools
 
 <p>
-  <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&logo=Jupyter&logoColor=white"></a>
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&logo=docker&logoColor=white"></a>
+  <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+  <a href="" ><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"  width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
